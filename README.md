@@ -11,7 +11,6 @@
 <div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show all → <a/></div>
  
 #### Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
-#### I started programming 7 years ago with Java and Javascript which leads me to commit revolutionizing the #Front-end Development and share my thoughts about this domain and help newcomers acquire techniques and tips through valuable content.
 
 #### I'm an addictive reader with more than 150 books in my pocket about Business, Startups, Design, and Programming. #YDJS, #ATOMICDESIGN, #LEANUX, #LEANSTARTUP are my favorites.
 
