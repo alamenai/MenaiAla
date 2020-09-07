@@ -7,8 +7,7 @@
 <br>
 
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken8xvs3.png"/>
-
-<div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me this shit design → <a/></div>
+<div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me → <a/></div>
  
 #### Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
 
