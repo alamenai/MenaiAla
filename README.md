@@ -9,8 +9,14 @@
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken8xvs3.png"/>
 <div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me → <a/></div>
  
-#### Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
+ ### Who're you?
+<code>Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.</code>
 
-#### I'm an addictive reader with more than 150 books in my pocket about Business, Startups, Design, and Programming. #YDJS, #ATOMICDESIGN, #LEANUX, #LEANSTARTUP are my favorites.
+### What's your current mission ?
+In fact I have two mission: 
 
-#### My definite aim to work for millennial founders and help them add value to societies and beat their competitors by designing and developing cutting-edge digital experiences for their innovative visions and ideas. 
+1. Relase a succefull open-source project.
+2. Reach 5000 contributions this year.
+
+### Are you available to contribute with others?
+Of course, if the project built with `js`.
