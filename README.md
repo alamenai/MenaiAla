@@ -9,13 +9,13 @@
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken8xvs3.png"/>
 <div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me → <a/></div>
  
- ### Who're you?
-<code>Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.</code>
+### Who're you?
+Design Systems enthusiast, obsessive User Interface Engineer, and Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
 
 ### What's your current mission ?
 In fact I have two mission: 
 
-1. Relase a succefull open-source project.
+1. Release a successful open-source project.
 2. Reach 5000 contributions this year.
 
 ### Are you available to contribute with others?
