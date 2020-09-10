@@ -15,7 +15,7 @@ Design Systems enthusiast, obsessive User Interface Engineer.
 Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
 ```
 
-### What's your current missions?
+### What's your current mission?
 ```
 1. Release a successful open-source project.
 2. Reach 5000 contributions this year.
