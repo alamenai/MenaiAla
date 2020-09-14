@@ -7,12 +7,17 @@
 <br>
 
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken8xvs3.png"/>
-<div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me → <a/></div>
- 
+<div align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">Show me → <a/></div> 
+
 ### Who're you?
 ```
 Design Systems enthusiast, obsessive User Interface Engineer.
-Reactish Developer with a vision to bridge the gap between traditional boundaries of development and design.
+React-focused Developer with a vision to bridge the gap between traditional boundaries of development and design.
+```
+
+### What's your vision?
+```
+Delighting users with universal user interfaces.
 ```
 
 ### What's your current mission?
