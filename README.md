@@ -41,7 +41,7 @@
 </p>
 <div align="center">
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover)](https://github.com/harish-sethuraman/readme-components)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover)](https://www.behance.net/gallery/103649345/Watch-Streaming-App)
  </div>
 
 
