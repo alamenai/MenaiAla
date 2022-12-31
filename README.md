@@ -1,11 +1,37 @@
-<h1 align="center">I Like To Create :unicorn: User Interfaces</h1>
+
+
 <div align="center">
- <a href="https://www.linkedin.com/in/ala-eddine-menai-6a020b159/"/>Linkedin<a/> •
- <a href="https://www.behance.net/menaialaeddine"/>Behance<a/> •
- <a href="https://dribbble.com/Aladdinui"/>Dribbble<a/> •
- <a href="https://stackexchange.com/users/10231365/menai-ala-eddine-aladdin"/>Stackoveflow<a/> •
- <a href="https://docs.google.com/document/d/1t2wacy3ELSIqgptsgjqb5kJRTRsyDHYo8Q4lCgrjlbQ/edit?usp=sharing"/>Resume<a/>
+ 
+  
+<img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
+ 
+<hr>
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=f1ff00)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&text=false&fill=0f3e7f)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Redux&text=false&fill=8200ff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=graphql&text=false&fill=ac00fc)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&fill=0081ff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=npm&text=false&fill=e54e38)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sass&text=false&fill=ff7dba)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cypress&text=false&fill=85ff58)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jest&text=false&fill=00ff00)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=e54e38)
+ 
+ <br>
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEnaiAla&show_icons=true&theme=radical)
+ 
+ 
+ ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7551963&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+ 
 </div>
+
+ <div align="center">
+ 
+
+</div>
+
 <br>
 
 <p align="center">
@@ -13,28 +39,12 @@
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken94khu.png"/>
 
 </p>
+<div align="center">
 
-<p align="center"><a href="https://www.behance.net/gallery/103649345/Watch-Streaming-App">See full design → <a/></p> 
-
-### Who're you?
-```
-Design Systems enthusiast, obsessive User Interface Engineer.
-React-focused Developer with a vision to bridge the gap between traditional boundaries of development and design.
-```
-
-### What's your vision?
-```
-Delighting users with universal user interfaces.
-```
-
-### What's your current mission?
-```
-1. Release a successful open-source project.
-2. Reach 5000 contributions this year.
-```
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover)](https://github.com/harish-sethuraman/readme-components)
+ </div>
 
 
-### Are you available to contribute with others?
-```
-Of course, if the project built with `js`.
-```
+
+
+
