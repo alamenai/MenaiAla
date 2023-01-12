@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;UI+Enginner;Erstell+der+21.+Anwendungen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breath+the+code+!;)](https://git.io/typing-svg)
 <hr>
 <div align="center">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
@@ -31,8 +31,8 @@
 
 <p align="center">
  
-<img src="https://github.com/MenaiAla/MenaiAla/blob/master/smartmockups_ken94khu.png"/>
-
+<img data-ut="lightbox-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66fea6103298067.5f49e1aa6a806.png" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a4919c103353989.5f4b9158ea7cd.png 502w," sizes="(max-width: 502px) 100vw, 502px">
+ 
 </p>
 
 <div align="center">
