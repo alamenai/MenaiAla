@@ -17,8 +17,6 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=e54e38)
  
  <br>
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEnaiAla&show_icons=true&theme=radical) 
   
 </div>
 
@@ -43,13 +41,6 @@
  <div align="center">
  
   ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7551963&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
- 
- </div>
- 
- <div align="center">
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MenaiAla&repo=You-Dont-Know-UI&theme=outrun)](https://github.com/MenaiAla/You-Dont-Know-UI) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MenaiAla&repo=react-navigation&theme=outrun)](https://github.com/MenaiAla/react-navigation)
  
  </div>
  
