@@ -1,14 +1,17 @@
 
-<div align="center">
-<image src="https://github.com/MenaiAla/MenaiAla/blob/master/header.png"/>
- </div>
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breath+the+code+!;)](https://git.io/typing-svg)
 <hr>
 <div align="center">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
 <hr>
-
+<div align="center">
+<image src="https://github.com/MenaiAla/MenaiAla/blob/master/header.png"/>
+ </div>
+ <br>
+ 
+<hr>
+ 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=f1ff00)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&text=false&fill=0f3e7f)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Redux&text=false&fill=8200ff)
@@ -19,6 +22,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cypress&text=false&fill=85ff58)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jest&text=false&fill=00ff00)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=e54e38)
+ 
+ <hr>
  
  <br>
   
