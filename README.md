@@ -1,5 +1,7 @@
 
-<image src="https://cdn.buymeacoffee.com/uploads/cover_images/2023/01/82e6742e7f612335c74a6c8fb6ea1494.jpg@2560w_0e.webp"/>
+<div align="center">
+<image src="https://github.com/MenaiAla/MenaiAla/blob/master/header.png"/>
+ </div>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breath+the+code+!;)](https://git.io/typing-svg)
 <hr>
