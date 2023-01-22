@@ -25,7 +25,8 @@
  
  <hr>
  
- <br>
+ <a href="https://github.com/MenaiAla/You-Dont-Know-UI"><img src="https://github.com/MenaiAla/MenaiAla/blob/master/github-guideline-card.png"></a>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/alaedddine/recent-activity/shares/"><img src="https://github.com/MenaiAla/MenaiAla/blob/master/github-tips-card.png"></a>
   
 </div>
 
@@ -44,7 +45,7 @@
 
 <div align="center">
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover)](https://www.behance.net/gallery/103649345/Watch-Streaming-App)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+more)](https://www.behance.net/gallery/103649345/Watch-Streaming-App)
  </div>
  
  <div align="center">
