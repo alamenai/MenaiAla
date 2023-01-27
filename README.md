@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breath+the+code+!;)](https://git.io/typing-svg)
 <hr>
 <div align="center">
+ <img src="./vision.png">
+ </div>
+ <hr>
+<div align="center">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
 <hr>
 <div align="center">
