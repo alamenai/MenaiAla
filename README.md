@@ -9,9 +9,17 @@
 <div align="center">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
 <hr>
+ 
 <div align="center">
-<image src="https://github.com/MenaiAla/MenaiAla/blob/master/header.png"/>
+<image src="https://media.licdn.com/dms/image/C4E22AQF5HkRMFLCa1g/feedshare-shrink_2048_1536/0/1617723232869?e=1678924800&v=beta&t=3JAcu1pZj2ve2KlswO8uCz9ozEj4FUcFwAKi-TYMn6k"/>
  </div>
+ <br>
+ <br>
+ <div align="center">
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+more+tips+on+Linkedin)](https://www.linkedin.com/in/alaedddine/recent-activity/shares/)
+ </div>
+ 
  <br>
  
 <hr>
@@ -27,7 +35,17 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jest&text=false&fill=00ff00)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=e54e38)
  
+ <br>
+ 
+<div align="center">
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+my+stack+on+Stackshare)](https://stackshare.io/menaiala)
+  
+ </div>
  <hr>
+ 
+
+ 
  
  <a href="https://github.com/MenaiAla/You-Dont-Know-UI"><img src="https://github.com/MenaiAla/MenaiAla/blob/master/github-guideline-card.png"></a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/alaedddine/recent-activity/shares/"><img src="https://github.com/MenaiAla/MenaiAla/blob/master/github-tips-card.png"></a>
@@ -49,7 +67,7 @@
 
 <div align="center">
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+more)](https://www.behance.net/gallery/103649345/Watch-Streaming-App)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+more+on+Behance)](https://www.behance.net/gallery/103649345/Watch-Streaming-App)
  </div>
  
  <div align="center">
