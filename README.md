@@ -1,11 +1,23 @@
 
 
+
+
+<div align="center">
+ <a href="https://leetcode.com/MenaiAla/">
+<img src="https://github.com/MenaiAla/MenaiAla/blob/master/LEET-CODE.png"/>
+ </a>
+<hr>
+ </div>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breathe+the+code+!;)](https://git.io/typing-svg)
 <hr>
 <div align="center">
  <img src="./vision.png">
  </div>
  <hr>
+ 
+ 
+ 
 <div align="center">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/HEADER.png"/>
 <hr>
@@ -91,17 +103,6 @@
   ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7551963&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
  
  </div>
- 
- <h2 align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars 🥳</a>
-  </br>
-</h2>
-
-<hr>
-<p align="center">
-<a href="https://www.buymeacoffee.com/alaofficiap"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cappuccino&emoji=☕&slug=alaofficiap&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
-</hr>
 
 </body>
 
