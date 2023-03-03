@@ -7,6 +7,11 @@
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/LEET-CODE.png"/>
  </a>
 <hr>
+ <a href="https://www.codingame.com/profile/eb747f9f3bdf693f20d89b32d6f912901068635">
+<img src="https://github.com/MenaiAla/MenaiAla/blob/master/codingame-logo.png"/>
+ </a>
+  
+ <hr>
  </div>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breathe+the+code+!;)](https://git.io/typing-svg)
