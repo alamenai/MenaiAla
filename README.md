@@ -28,13 +28,18 @@
 <hr>
  
 <div align="center">
-<image src="https://media.licdn.com/dms/image/C4E22AQF5HkRMFLCa1g/feedshare-shrink_2048_1536/0/1617723232869?e=1678924800&v=beta&t=3JAcu1pZj2ve2KlswO8uCz9ozEj4FUcFwAKi-TYMn6k"/>
+ 
+<image src="https://github.com/MenaiAla/MenaiAla/blob/master/linkedin-tip-02.jpeg"/>
+ 
  </div>
+ 
  <br>
  <br>
+ 
  <div align="center">
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=Discover+more+tips+on+Linkedin)](https://www.linkedin.com/in/alaedddine/recent-activity/shares/)
+  
  </div>
  
  <br>
