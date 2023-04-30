@@ -1,6 +1,26 @@
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=4649FF&center=true&vCenter=true&width=1000&height=150&lines=Hallo!+Ich+bin+Aladdin;Software+Entwickler;Erstell+der+21.+Anwendungen;I+breathe+the+code+!;)](https://git.io/typing-svg)
 
+### BIO
+Hi! My name is Ala Eddine, I'm a software engineer from Algeria. I falt in love with programming by watching the New Boston videos which is so popular tutor in the USA. In 2016, I graduated from the University 2 of constantine with a first-wining project which is windows application for streaming the management process at a campus of a students. After 6 months, I drop out from the college and built my first desktop commercial application from scratch for a billionaire company with Java, JavaFX, CSS3 and Hibernate. I learned a lot from this experience about programming, solo-preneurship, marketing, negociation and more. Because the university did fill my passion for programming, so I started learning about UI design, Web Development, Starups , Entrepreneuship and more topics by watching videos and reading books, I ended up reading more than 100 books about programming  and business. My latest book is : Refactoring UI by Adams the creator of TailwindCSS. 
+
+Somtimes and I solve leetcode problems, challenge others on codinggame and share UI tips on Linkedin.
+
+Lately, I commited to created a succefull open-source project though I failed several time but at least I created some projects I'm proud of :
+
+#### 1. You Don't Kow UI:
+A collection of detailed pro tips about designing and developing modern user interfaces for the web.
+
+#### 2. Leetcode JS:
+Inspired by Lodash. A library that simplifies complex array problems with an easy-to-use API. This eliminates the need for additional code, empowering developers to streamline their programming process.
+
+#### 3. One Night Maker
+A collection of mini projects created in a single night.
+
+
+<hr>
 <div align="center">
  <a href="https://leetcode.com/MenaiAla/">
 <img src="https://github.com/MenaiAla/MenaiAla/blob/master/LEET-CODE.png"/>
